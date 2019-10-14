@@ -1,0 +1,10 @@
+<resources>
+    <string name="google_maps_API_key">AIzaSyCSchvC7dO3dlhQfT1kbiRzx-2FPlKEqko</string>
+    <string name="app_name">AlarMAP</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="box_1">Vibrar ao chegar no destino</string>
+    <string name="compartilhe_texto">Cansado de acordar somente no ponto final? Resolvemos seu problema!</string>
+    <string name="agenda_alarme">Deseja agendar o despertador para tocar em</string>
+    <string name="mensagem_despertador">Acorde! Você chegou ao seu destino!</string>
+    <string name="alarme_criado">O alarme está definido para:</string>
+</resources>
